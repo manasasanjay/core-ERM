@@ -1,2 +1,2 @@
 # core-ERM
-all ERM code for replicatino project
+all ERM code for replication project
